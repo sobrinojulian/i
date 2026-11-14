@@ -1,0 +1,18 @@
+{
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/*.pyc": true,
+    "**/*.pyo": true,
+    "**/build": true,
+    "**/dist": true,
+    "**/wheels": true,
+    "**/*.egg-info": true,
+    "**/.venv": true,
+    "**/.env": false,
+    "**/.junie": true,
+    "**/.vscode": true,
+    "**/uv.lock": true,
+    "**/license": true,
+    "**/.gitignore": true,
+  }
+}
